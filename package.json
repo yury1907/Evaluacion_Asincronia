@@ -1,0 +1,17 @@
+{
+  "name": "evaluacion-asincronia-js",
+  "version": "1.0.0",
+  "description": "Evaluacion de algoritmos en JavaScript y consumo de API",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "javascript",
+    "algoritmos",
+    "asincronia",
+    "fetch"
+  ],
+  "license": "ISC"
+}

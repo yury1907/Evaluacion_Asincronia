@@ -1,0 +1,21 @@
+# Dependencias de Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuraciones del IDE y editor
+.vscode/
+.idea/
+
+# Registros y volcados
+logs/
+*.log
+
+# Variables de entorno locales
+.env
+.env.local
